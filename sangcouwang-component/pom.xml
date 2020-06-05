@@ -11,6 +11,16 @@
 
     <groupId>com.summersky</groupId>
     <artifactId>sangcouwang-component</artifactId>
-
     <packaging>jar</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.summersky</groupId>
+            <artifactId>sangcouwang-entity</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.summersky</groupId>
+            <artifactId>sangcouwang-utity</artifactId>
+        </dependency>
+    </dependencies>
 </project>

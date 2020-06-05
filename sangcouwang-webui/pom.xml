@@ -12,5 +12,10 @@
     <groupId>com.summersky</groupId>
     <artifactId>sangcouwang-webui</artifactId>
     <packaging>war</packaging>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.summersky</groupId>
+            <artifactId>sangcouwang-component</artifactId>
+        </dependency>
+    </dependencies>
 </project>
