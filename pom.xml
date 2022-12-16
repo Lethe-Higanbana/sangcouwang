@@ -18,7 +18,7 @@
 
     <properties>
         <!-- 声明属性，对Spring的版本进行统一管理 -->
-        <summersky.spring.version>4.3.20.RELEASE</summersky.spring.version>
+        <summersky.spring.version>5.2.20.RELEASE</summersky.spring.version>
     </properties>
 
     <dependencyManagement>
